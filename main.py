@@ -29,7 +29,7 @@ def personsInfo():
     pass
 
 def log(isId):
-    conn=sql.connect("TuAnalytics.db")
+    conn=sql.connect("Hanalistik.db")
     cursor=conn.cursor()
     match = re.search(r'(\d+)', isId)
     isId = match.group(1)
@@ -46,7 +46,7 @@ def log(isId):
         post("e")
     global loggs
     if (loggs==False):
-        conn=sql.connect("TuAnalytics.db")
+        conn=sql.connect("Hanalistik.db")
         cursor=conn.cursor()
         cursor.execute("INSERT INTO logs(person,date) VALUES(?,?)",(who,str(datetime.now())))
         conn.commit()
