@@ -38,8 +38,8 @@ O zaman doğru yerdesin 🙌
 ## ⚙️ Kurulum
 
 ```bash
-git clone https://github.com/erdemskywalker/TuAnalytics.git
-cd TuAnalytics
+git clone https://github.com/erdemskywalker/Hanalistik.git
+cd Hanalistik
 pip install -r requirements.txt
 ```
 
