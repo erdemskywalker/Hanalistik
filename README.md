@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" alt="Build Status">
   <img src="https://img.shields.io/badge/Python-%3E=3.7-blue?style=flat-square" alt="Python Version">
-  <img src="https://img.shields.io/github/stars/erdemskywalker/TuAnalytics?style=flat-square" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/erdemskywalker/Hanalistik?style=flat-square" alt="GitHub Stars">
 </p>
 
 
