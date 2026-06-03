@@ -25,7 +25,7 @@ $rows = $query->fetchAll(PDO::FETCH_ASSOC);
 <body>
     <nav class="navbar">
         <div class="container-fluid">
-            <a href="./">TuAnalytics</a>
+            <a href="./">Hanalistik</a>
             <div>
             <i onclick="window.location='logs';" class="fa-solid fa-clock-rotate-left"></i>
             <i onclick="window.location='logout.php';" class="fa-solid fa-arrow-right-from-bracket"></i>
