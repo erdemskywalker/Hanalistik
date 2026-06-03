@@ -14,7 +14,7 @@
 <body>
     <nav class="navbar">
         <div class="container-fluid">
-            <a href="./">TuAnalytics</a>
+            <a href="./">Hanalistik</a>
         </div>
     </nav>
     <div class="container content_three">
