@@ -1,6 +1,6 @@
 
 <?php
-$db=new PDO("sqlite:../TuAnalytics.db");
+$db=new PDO("sqlite:../Hanalistik.db");
 
 $query=$db->prepare("SELECT * FROM logs");
 $query->execute();
@@ -15,7 +15,7 @@ $rows = $query->fetchAll(PDO::FETCH_ASSOC);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TuAnalytics</title>
+    <title>Hanalistik</title>
     <link rel="stylesheet" href="extras/bootstrap.min.css">
     <script src="extras/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="extras/style.css">
