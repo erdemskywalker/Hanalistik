@@ -1,6 +1,6 @@
 
 <?php
-$db=new PDO("sqlite:../TuAnalytics.db");
+$db=new PDO("sqlite:../Hanalistik.db");
 
 $query=$db->prepare("SELECT * FROM persons WHERE id=:id");
 $query->bindParam(":id",$data[0]);
