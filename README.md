@@ -1,4 +1,4 @@
-<h1 align="center">🔐TuAnalytics FaceAuth-Arduino</h1>
+<h1 align="center">🔐Hanalistik FaceAuth-Arduino</h1>
 
 <p align="center">
   Yüz tanıma destekli geçiş sistemi<br>
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Neden TuAnalytics?
+## 🎯 Neden Hanalistik?
 
 💡 **Güvenliğinizi artırmak için yüz tanıma teknolojisi kullanmak mı istiyorsunuz?**<br>
 💡 **Arduino ile Python'u bir araya getirip mini bir geçiş sistemi mi kurmak istiyorsun?**  
